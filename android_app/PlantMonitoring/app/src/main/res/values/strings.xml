@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PlantMonitoring</string>
+    <string name="soil_moisture">Soil Moisture</string>
+    <string name="_0">0%</string>
+    <string name="humidity">Humidity</string>
+    <string name="_0_c">0 C</string>
+    <string name="temperature">Temperature</string>
+    <string name="light">Light</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="measure_at">Measure at</string>
+    <string name="_0_">0</string>
+    <string name="time">Time</string>
+    <string name="seconds">Seconds</string>
+    <string name="run_pump_for">Run pump for</string>
+    <string name="soil_moisture_threshold">Soil moisture threshold</string>
+    <string name="save">Save</string>
+</resources>
